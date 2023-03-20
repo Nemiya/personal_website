@@ -1,0 +1,62 @@
+body {text-align: center;
+background-color: #AEC2B6;
+font-family: 'Merriweather';}
+
+.top-cloud {position: absolute;
+right: 300px;
+top: 50px;}
+.bottom-cloud {position: absolute;
+left: 300px;
+bottom: 300px;}
+
+.top-container {position: relative;
+padding-top: 100px;}
+
+h1 {font-family: 'Sacramento';
+font-size: 5.625rem;
+margin-top: 50px auto 0 auto;
+color: #413543;}
+h3 {font-family: 'Rubik';
+font-size: 2.5rem; color: #413543;}
+
+.skill-row {width: 50%;
+margin: 100px auto 100px auto;
+text-align: left;
+line-height: 2;}
+
+.skill-img {width: 25%;
+margin-right: 30px;
+float: left;}
+.computer-img {width: 25%;
+float: right margin-left: 30px;}
+
+
+.tron {
+   -webkit-border-radius: 0;
+   -moz-border-radius: 0;
+   border-radius: 0;
+   color: #00E2FF;
+   font-family: Verdana;
+   font-size: 26px;
+   font-weight: 100;
+   padding: 15px;
+   background-color: #000000;
+   -webkit-box-shadow: 1px 1px 20px 0 #000000;
+   -moz-box-shadow: 1px 1px 20px 0 #000000;
+   box-shadow: 1px 1px 20px 0 #000000;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #00E2FF 7px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.tron:hover {
+   background: #000000;
+   border: solid #00E2FF 5px;
+   -webkit-border-radius: 0;
+   -moz-border-radius: 0;
+   border-radius: 0;
+   text-decoration: none;
+}
